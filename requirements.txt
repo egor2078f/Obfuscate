@@ -1,4 +1,4 @@
-flask
-requests
-beautifulsoup4
-lxml
+aiogram
+supabase
+python-dotenv
+httpx
